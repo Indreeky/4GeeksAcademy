@@ -1,0 +1,105 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "purple"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Indre
+    last_name: Krugelyte
+    
+    # Define yourself in 4-5 words
+    motto: 
+    
+    # focus
+    focus: En constante aprendizaje y sacando siempre mi mejor versión.
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email:  #optional
+    phone:  #optional
+    website:  #optional
+    linkedin: www.linkedin.com/in/indre-krugelyte-084651220 #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: Indreeky
+    
+    twitter:  #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Ingles
+        level: Basico
+
+      - idiom: Español 
+        level: Nativo
+
+      - idiom: Lituano
+        level: Nativo
+
+    # Interests or hobies
+    interests:
+      - item: Crossfit
+
+      - item: Animales
+
+      - item: Leer
+
+# Your previous education
+education:
+    - degree: 
+      university: 
+      # optional
+      university_logo: 
+      time: 
+      details: |
+     
+    - degree: 
+      university: 
+      # optional
+      university_logo: 
+      time: 
+      details: |
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: 
+      time: 
+      company: 
+      # optional
+      company_logo: 
+      details: |
+       
+      
+# Your project portfolio
+projects:
+    intro: >
+     
+    assignments:
+      - title: 
+        # optional
+        project_logo: 
+        link:
+        tagline: 
+
+
+skills:
+    toolset:
+      - name: Python & Django
+        level: 
+
+
